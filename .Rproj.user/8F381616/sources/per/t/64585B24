@@ -1,0 +1,26 @@
+{
+    "id": "64585B24",
+    "path": "D:/mh1/xxx_shiny_app_for_data_analysis/Analysis_shiny_app/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "2549586876",
+    "contents": "",
+    "dirty": false,
+    "created": 1631103872208.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "304,33",
+        "scrollLine": "284"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1631188490,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1631188490380,
+    "read_only": false,
+    "read_only_alternatives": []
+}

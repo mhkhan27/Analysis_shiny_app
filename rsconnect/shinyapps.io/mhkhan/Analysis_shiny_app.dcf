@@ -1,0 +1,13 @@
+name: Analysis_shiny_app
+title: Analysis_shiny_app
+username:
+account: mhkhan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4615792
+bundleId: 5015575
+url: https://mhkhan.shinyapps.io/Analysis_shiny_app/
+when: 1631188586.3305
+lastSyncTime: 1631188586.3315
+asMultiple: FALSE
+asStatic: FALSE
